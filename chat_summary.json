@@ -12,5 +12,11 @@
         "content": "add an email form to talk to santa",
         "timestamp": "26082024211510",
         "message_id": "guest26082024211510"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I'll add an email form for Santa communication.",
+        "timestamp": "26082024211511",
+        "message_id": "guest26082024211510"
     }
 ]
