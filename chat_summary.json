@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Live chat feature for real-time communication with Santa\", \"checked\": false}, {\"feature\": \"A festive countdown timer to Christmas\", \"checked\": true}, {\"feature\": \"Personalized coffee gift recommendations by Santa\", \"checked\": false}, {\"feature\": \"Subscription box sign-up form for monthly coffee surprises\", \"checked\": true}, {\"feature\": \"Newsletter sign-up for holiday promotions and offers\", \"checked\": true}], \"input_token_count\": 224, \"output_token_count\": 100, \"time_taken\": \"0:00:03.257841\"}",
         "timestamp": "26082024211515",
         "message_id": "guest26082024211510"
+    },
+    {
+        "role": "user",
+        "content": "add an email form to talk to santa",
+        "timestamp": "26082024211601",
+        "message_id": "guest26082024211601"
     }
 ]
