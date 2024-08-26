@@ -36,5 +36,11 @@
         "content": "On it! Adding an email form to talk to Santa.",
         "timestamp": "26082024211602",
         "message_id": "guest26082024211601"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Email Santa' form to be easily accessible from the main page or would you prefer a dedicated page for it?\", \"option1\": \"Accessible from the main page\", \"option2\": \"Dedicated page for it\"}, {\"question 2\": \"Should the form include any specific fields apart from the user's name and email address?\", \"option1\": \"Yes, add a message box for personalized messages to Santa\", \"option2\": \"No, just the name and email address\"}], \"input_token_count\": 319, \"output_token_count\": 118, \"time_taken\": \"0:00:02.805836\"}",
+        "timestamp": "26082024211605",
+        "message_id": "guest26082024211601"
     }
 ]
