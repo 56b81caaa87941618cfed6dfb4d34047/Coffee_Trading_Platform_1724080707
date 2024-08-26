@@ -4,5 +4,6 @@
     "project_description": "coffee market place",
     "creation_time": "2024-08-19 15:18:27.735094",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image utilizes a vibrant, surreal color scheme featuring shades of pink, purple, and magenta with a cosmic, otherworldly style dominated by dramatic landscapes and celestial bodies."
 }
