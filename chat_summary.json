@@ -54,5 +54,11 @@
         "content": "Sure, I'll change the image to a dinosaur.",
         "timestamp": "03092024133351",
         "message_id": "guest03092024133350"
+    },
+    {
+        "role": "user",
+        "content": "change the image to a dinosaur",
+        "timestamp": "03092024133351",
+        "message_id": "guest03092024133350"
     }
 ]
