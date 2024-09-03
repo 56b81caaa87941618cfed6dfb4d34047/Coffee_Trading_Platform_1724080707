@@ -71,6 +71,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific dinosaur image do you have in mind?\", \"option1\": \"A realistic dinosaur image\", \"option2\": \"A cartoon-style dinosaur image\"}, {\"question 2\": \"Where would you like this dinosaur image to be located in the app?\", \"option1\": \"As a background image\", \"option2\": \"As a featured image on the main page\"}], \"input_token_count\": 336, \"output_token_count\": 89, \"time_taken\": \"0:00:01.519246\"}",
+        "message_id": "guest03092024133350",
+        "timestamp": "03092024133356",
+        "component_file_name": "simple_header_component_1724454493",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll change the image to a dinosaur.",
         "message_id": "guest03092024133350",
