@@ -78,5 +78,14 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "change the image to a dinosaur",
+        "message_id": "guest03092024133350",
+        "timestamp": "03092024133351",
+        "component_file_name": "simple_header_component_1724454493",
+        "div_id": "",
+        "div_action": ""
     }
 ]
