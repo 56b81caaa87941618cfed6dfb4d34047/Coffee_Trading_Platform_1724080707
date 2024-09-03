@@ -69,5 +69,14 @@
         "timestamp": "1724080710",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll change the image to a dinosaur.",
+        "message_id": "guest03092024133350",
+        "timestamp": "03092024133351",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     }
 ]
