@@ -24,14 +24,12 @@
               </li>
             </template>
           </ul>
-          <div class="py-4 px-4 w-full border-t border-pink-300 bg-magenta-400 bg-opacity-20 rounded-b-lg">
-            <div class="flex flex-col items-center gap-y-4">
-              <span class="block text-white font-semibold">Email Santa</span>
-              <form class="w-full">
-                <input type="email" placeholder="Your email" class="w-full p-2 mb-2 rounded-lg bg-white bg-opacity-20 text-white placeholder-pink-200" />
-                <textarea placeholder="Your message to Santa" class="w-full p-2 mb-2 rounded-lg bg-white bg-opacity-20 text-white placeholder-pink-200 h-24"></textarea>
-                <button type="submit" class="w-full p-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600">Send to Santa</button>
-              </form>
+          <div class="py-4 px-4 w-fit border-t border-pink-300 bg-magenta-400 bg-opacity-20 rounded-b-lg">
+            <div class="flex items-center gap-x-4">
+              <div>
+                <span class="block text-white font-semibold">Brew Your Perfect Cup</span>
+                <a href="javascript:void(0)" class="block mt-px text-pink-200 text-xs hover:text-white">Discover, order, and enjoy premium coffee from around the world</a>
+              </div>
             </div>
           </div>
         </div>
