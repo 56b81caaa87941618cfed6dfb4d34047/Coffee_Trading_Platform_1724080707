@@ -1,13 +1,13 @@
 <!-- Sidebar navigation component -->
 <template>
-  <nav class="fixed top-0 left-0 w-fit h-full bg-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg space-y-8 sm:w-80 pt-10 text-white z-20 shadow-lg rounded-r-lg">
+  <nav class="fixed top-0 left-0 w-fit h-full bg-gray-100 space-y-8 sm:w-80 pt-10 text-black z-20">
     <div class="flex flex-col h-full">
       <div class="flex-1 flex flex-col h-full overflow-auto">
         <ul class="px-4 text-sm font-medium flex-1">
           <template v-for="(item, idx) in navigation" :key="idx">
             <li>
-              <a :href="item.href" class="flex items-center gap-x-2 text-white p-5 rounded-lg hover:bg-pink-500 hover:bg-opacity-50 active:bg-purple-700 w-fit duration-150">
-                <div class="text-white" v-html="item.icon"></div>
+              <a :href="item.href" class="flex items-center gap-x-2 text-white-600 p-5 rounded-lg hover:bg-black hover:text-white active:bg-gray-100 w-fit duration-150">
+                <div class="text-white-500" v-html="item.icon"></div>
                 <span> {{ item.name }} </span>
               </a>
             </li>
@@ -17,18 +17,18 @@
           <ul class="px-4 pb-4 text-sm font-medium">
             <template v-for="(item, idx) in navsFooter" :key="idx">
               <li>
-                <a :href="item.href" class="flex items-center gap-x-2 text-white p-2 rounded-lg hover:bg-pink-500 hover:bg-opacity-50 active:bg-purple-700 w-fit duration-150">
-                  <div class="text-white" v-html="item.icon"></div>
+                <a :href="item.href" class="flex items-center gap-x-2 text-white-600 p-2 rounded-lg hover:bg-black hover:text-white active:bg-gray-100 w-fit duration-150">
+                  <div class="text-white-500" v-html="item.icon"></div>
                   <span class="p-5"> {{ item.name }}</span>
                 </a>
               </li>
             </template>
           </ul>
-          <div class="py-4 px-4 w-fit border-t border-pink-300 bg-magenta-400 bg-opacity-20 rounded-b-lg">
+          <div class="py-4 px-4 w-fit border-t border-black">
             <div class="flex items-center gap-x-4">
               <div>
-                <span class="block text-white font-semibold">Brew Your Perfect Cup</span>
-                <a href="javascript:void(0)" class="block mt-px text-pink-200 text-xs hover:text-white">Discover, order, and enjoy premium coffee from around the world</a>
+                <span class="block text-white-700 text-sm font-semibold">Brew Your Perfect Cup</span>
+                <a href="javascript:void(0)" class="block mt-px text-white-600 text-xs">Discover, order, and enjoy premium coffee from around the world</a>
               </div>
             </div>
           </div>
