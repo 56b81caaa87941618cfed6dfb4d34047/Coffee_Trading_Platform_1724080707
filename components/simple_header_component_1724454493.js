@@ -7,7 +7,7 @@ Summary: The header component is a nav bar on top of the page -- it contains the
         <nav id="nav-bar" class="bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg border-gray-200 py-2.5 dark:bg-gray-900 dark:bg-opacity-20">
             <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a id="logo-link" href="#" class="flex items-center">
-                    <img id="logo-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Coffee_Trading_Platform_1724080707/main/images/554cfeef076d40359584c9108c9c9982.jpeg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
+                    <img id="logo-image" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
                     <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap text-white">
                         BrewConnect
                     </span>
